@@ -1,2 +1,3 @@
 My firtst text file created on git and push to Github 
 Adding First Line
+Adding SecondLine 
