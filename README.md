@@ -1,10 +1,10 @@
-# Open Source Software Engineering - Assignment 4
-
+Assignment 4 - Contributing to Open Source Software
 ## About / Synopsis
 
-* Contributing to Open Source Software
+* * Open Source Software Engineering – Assignment
+* Project Name : Develop selemium scripts to automation flipkart application
 * Project status: In Progress
-* BITS WILP Students support
+* Organization: Bits-MTech-Group48/osse-group48
 
 See real examples:
 
