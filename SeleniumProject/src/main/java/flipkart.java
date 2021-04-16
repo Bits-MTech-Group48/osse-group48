@@ -46,6 +46,35 @@ public class flipkart {
             e.printStackTrace();
         }
     }
+
+    public static void searchItem() throws InterruptedException {
+        WebElement searchItem = driver.findElement(By.xpath("//input[@type='text']"));
+        highLighterMethod(driver, searchItem);
+        searchItem.sendKeys("clothes");
+        WebElement searchButton = driver.findElement(By.xpath("//button[@type='submit']"));
+        highLighterMethod(driver, searchButton);
+        searchButton.click();
+        WebElement selectItem = driver.findElement(By.xpath("//a[@class='IRpwTa']"));
+        highLighterMethod(driver, selectItem);
+        Thread.sleep(100);
+        selectItem.click();
+
+        ArrayList<String> newTb = new ArrayList<String>(driver.getWindowHandles());
+        //switch to new tab
+        driver.switchTo().window(newTb.get(1));
+        System.out.println("Page title of new tab: " + driver.getTitle());
+        Thread.sleep(1000);
+        WebElement sizeChart = driver.findElement(By.xpath("//span[normalize-space(text())='Size Chart']"));
+        highLighterMethod(driver, sizeChart);
+        sizeChart.click();
+        Thread.sleep(100);
+        List<WebElement> sizeChartList = driver.findElements(By.xpath("//table/tbody/tr/td[1]"));
+        for (int i = 0; i < sizeChartList.size(); i++) {
+            highLighterMethod(driver, sizeChartList.get(i));
+        }
+        driver.findElement(By.xpath("//*[@id=\"container\"]//div/button")).click();
+    }
+
 	public static void highLighterMethod(WebDriver driver, WebElement element) {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');", element);
@@ -66,7 +95,9 @@ public class flipkart {
         initWebdriver();
         flipkartLogin();
         Thread.sleep(1000);
-		clickOnLogout();		
+        searchItem();
+        Thread.sleep(100);
+		clickOnLogout();	
         endSession();
     }
 }
