@@ -20,6 +20,7 @@ import java.util.concurrent.TimeUnit;
 @Test
 public class flipkart {
     public static WebDriver driver;
+	
 
     public static void initWebdriver() {
     	 System.setProperty("webdriver.chrome.driver", "C:\\Users\\nkasthuri\\Music\\chromedriver.exe");
@@ -29,8 +30,22 @@ public class flipkart {
         driver.get("https://www.flipkart.com");
         driver.manage().window().maximize();
     }
-
-  
+public static void flipkartLogin() {
+        WebElement username = driver.findElement(By.xpath("(//input[@type='text'])[2]"));
+        highLighterMethod(driver, username);
+        username.sendKeys("8446508606");
+        WebElement password = driver.findElement(By.xpath("//input[@type='password']"));
+        highLighterMethod(driver, password);
+        password.sendKeys("Madhu@123");
+        WebElement loginButton = driver.findElement(By.xpath("(//button[@type='submit'])[2]"));
+        highLighterMethod(driver, loginButton);
+        loginButton.click();
+        try {
+            Thread.sleep(100);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 
     public static void endSession() {
         driver.close();
@@ -39,7 +54,8 @@ public class flipkart {
 	
 	  public static void main(String[] args) throws InterruptedException {
         initWebdriver();
-        
+        flipkartLogin();
+        Thread.sleep(1000);  
         endSession();
     }
 }
