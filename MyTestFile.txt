@@ -1,1 +1,3 @@
 This is a file for testing puporse and collaborate.
+
+Selenium is a portable framework for testing web applications. ... It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala. The tests can then run against most modern web browsers.
