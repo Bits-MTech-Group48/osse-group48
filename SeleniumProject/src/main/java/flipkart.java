@@ -30,7 +30,7 @@ public class flipkart {
         driver.get("https://www.flipkart.com");
         driver.manage().window().maximize();
     }
-public static void flipkartLogin() {
+	public static void flipkartLogin() {
         WebElement username = driver.findElement(By.xpath("(//input[@type='text'])[2]"));
         highLighterMethod(driver, username);
         username.sendKeys("8446508606");
@@ -46,7 +46,17 @@ public static void flipkartLogin() {
             e.printStackTrace();
         }
     }
+	public static void highLighterMethod(WebDriver driver, WebElement element) {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');", element);
+    }   
 
+    public static void clickOnLogout() {
+        Actions action = new Actions(driver);
+        Action mouseOver = action.moveToElement(driver.findElement(By.xpath("//div[@class='exehdJ']"))).build();
+        mouseOver.perform();
+        driver.findElement(By.xpath("//div[contains(text(),'Logout')]")).click();
+    }
     public static void endSession() {
         driver.close();
         driver.quit();
@@ -55,7 +65,8 @@ public static void flipkartLogin() {
 	  public static void main(String[] args) throws InterruptedException {
         initWebdriver();
         flipkartLogin();
-        Thread.sleep(1000);  
+        Thread.sleep(1000);
+		clickOnLogout();		
         endSession();
     }
 }
