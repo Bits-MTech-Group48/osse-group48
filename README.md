@@ -18,6 +18,16 @@
 As part of Open source colloboration activity, project owner has created project repository (OpenSourceSE-Group-48) and remaining contributors forked the same repository  inorder to contribute to it.
 Each contributor 
 
+- [X] project owner has created project repository (OpenSourceSE-Group-48)
+- [x] remaining contributors forked the same repository
+- [x] Each contributor 
+- [x] Point 4
+- [ ] Point 4
+- [ ] Point 4
+- [ ] Point 4
+- [ ] Point 4
+- [ ] Point 4
+
 #### Contibutors Repository Links: 
 
 * <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
