@@ -27,7 +27,6 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshots](#screenshots)
 >     * [Selenium Features](#features)
 >   * [Code](#code)
 >     * [Content](#content)
@@ -45,8 +44,6 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 * From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
 
 ## Usage
-
-### Screenshots
 
 ### Selenium Features
 * Open Source and Portable 
