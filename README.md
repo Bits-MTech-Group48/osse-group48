@@ -42,7 +42,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
 ## Installation
 
-* From URL: https://docs.seleniumhq.org/download/ locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
+* From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
 
 ## Usage
 
@@ -85,10 +85,7 @@ Direct to MP package if any. Otherwise provide steps to deploy on Nuxeo Platform
 
 ## Contributing / Reporting issues
 
-Link to JIRA component (or project if there is no component for that project). Samples:
-
-* [Link to component](https://jira.nuxeo.com/issues/?jql=project%20%3D%20NXP%20AND%20component%20%3D%20Elasticsearch%20AND%20Status%20!%3D%20%22Resolved%22%20ORDER%20BY%20updated%20DESC%2C%20priority%20DESC%2C%20created%20ASC)
-* [Link to project](https://jira.nuxeo.com/secure/CreateIssue!default.jspa?project=NXP)
+* [Link to Tracking Issues](https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48/issues)
 
 ## License
 
