@@ -5,9 +5,11 @@
 * Project status : In Progress
 * Organization   : Bits-MTech-Group48/osse-group48
 
-#### Contrubutors Name & ID :
+#### Contrubutors Name:
 
-* 2020MT93203   |    T CHINNA REDDAIAH
+##### Student ID | Student Name
+
+* 2020MT93203 |    T CHINNA REDDAIAH
 * 2020MT93169	|    TAMILSELVAN N
 * 2020MT93192	|    SWATI VIDYADHAR SHANBHAG
 * 2020mt93049	|    KASTHURI NARESH
@@ -42,26 +44,11 @@ Description, sub-modules organization...
 
 ### Requirements
 
-
 Sample: <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
 
 ### Limitations
 
 Sample: <https://www.softwaretestingmaterial.com/challenges-and-limitations-of-selenium-webdriver/>
-
-### Build
-
-    mvn clean install
-
-Build options:
-
-* ...
-
-### Deploy (how to install build product)
-
-Direct to MP package if any. Otherwise provide steps to deploy on Nuxeo Platform:
-
- > Copy the built artifacts into `$NUXEO_HOME/templates/custom/bundles/` and activate the `custom` template.
 
 ## Resources (Documentation and other links)
 
