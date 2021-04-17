@@ -1,16 +1,16 @@
-Assignment 4 - Contributing to Open Source Software
+***Assignment 4 - Contributing to Open Source Software
 ## About / Synopsis
 
-* * Open Source Software Engineering – Assignment
-* Project Name : Develop selemium scripts to automation flipkart application
-* Project status: In Progress
-* Organization: Bits-MTech-Group48/osse-group48
+* Project Name   : Develop selemium scripts to automation flipkart application
+* Project status : In Progress
+* Organization   : Bits-MTech-Group48/osse-group48
 
-See real examples:
+Contibutors Repository Links: 
 
-* <https://github.com/nuxeo/nuxeo/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-drive/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-sdk-ios/blob/master/README.md>
+* <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
+* <https://github.com/tamilselvanbits/osse-group48-1>
+* <https://github.com/Swatvi/osse-group48-1>
+* <https://github.com/kasthurinaresh/osse-group48-1>
 
 ## Table of contents
 
