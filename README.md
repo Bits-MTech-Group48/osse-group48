@@ -69,7 +69,7 @@ Sample: <https://github.com/nuxeo/nuxeo/blob/master/nuxeo-distribution/README.md
 
 ### Limitations
 
-Sample: <https://github.com/nuxeo-archives/nuxeo-features/tree/master/nuxeo-elasticsearch>
+Sample: <https://www.softwaretestingmaterial.com/challenges-and-limitations-of-selenium-webdriver/>
 
 ### Build
 
