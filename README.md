@@ -25,8 +25,6 @@
 
 * From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
 
-## Usage
-
 ### Selenium Features
 * Open Source and Portable 
 * Reduce test execution time
