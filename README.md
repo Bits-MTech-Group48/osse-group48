@@ -36,7 +36,6 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
 >   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
 >   * [Contributing / Reporting issues](#contributing--reporting-issues)
->   * [License](#license)
 >   * [About Selenium Scripts](#about-nuxeo)
 
 ## Installation
@@ -88,10 +87,6 @@ Direct to MP package if any. Otherwise provide steps to deploy on Nuxeo Platform
 ## Contributing / Reporting issues
 
 * [Link to Tracking Issues](https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48/issues)
-
-## License
-
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## About Selenium Scripts
 
