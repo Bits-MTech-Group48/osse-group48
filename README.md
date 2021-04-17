@@ -28,7 +28,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Installation](#installation)
 >   * [Usage](#usage)
 >     * [Screenshots](#screenshots)
->     * [Features](#features)
+>     * [Selenium Features](#features)
 >   * [Code](#code)
 >     * [Content](#content)
 >     * [Requirements](#requirements)
