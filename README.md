@@ -55,13 +55,16 @@ Each contributor
 
 ### Requirements
 
-Sample: <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
+<https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
 
 ### Limitations
 
-Sample: <https://www.softwaretestingmaterial.com/challenges-and-limitations-of-selenium-webdriver/>
+<https://www.softwaretestingmaterial.com/challenges-and-limitations-of-selenium-webdriver/>
 
 ## Resources (Documentation and other links)
+
+<https://www.selenium.dev/>
+<https://www.eclipse.org/eclipseide/>
 
 ## Contributing / Reporting issues
 
