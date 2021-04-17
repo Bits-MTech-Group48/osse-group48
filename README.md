@@ -24,8 +24,9 @@ Each contributor
 - [x] All collaborators create different topic branches in order to make their 
 changes 
 - [x] Collaborate and contribute to the development of ReadMe.md file
-- [ ] Point 4
-- [ ] Point 4
+- [X] Collaborate and contribute to the development of the software code
+- [ ] Enable an issue tracker for your project and ensure usage of the same by all 
+collaborators.
 - [ ] Point 4
 - [ ] Point 4
 - [ ] Point 4
