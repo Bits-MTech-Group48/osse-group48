@@ -92,7 +92,7 @@ Link to JIRA component (or project if there is no component for that project). S
 
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-## About Selenium SCripts
+## About Selenium Scripts
 
 Selenium is a portable framework for testing web applications. ... It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala. The tests can then run against most modern web browsers.
 
