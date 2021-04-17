@@ -65,7 +65,7 @@ Description, sub-modules organization...
 
 See [CORG/Compiling Nuxeo from sources](http://doc.nuxeo.com/x/xION)
 
-Sample: <https://github.com/nuxeo/nuxeo/blob/master/nuxeo-distribution/README.md>
+Sample: <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
 
 ### Limitations
 
