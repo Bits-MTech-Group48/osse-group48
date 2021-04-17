@@ -9,10 +9,14 @@
 
 ##### Student ID | Student Name
 
-* 2020MT93203 |    T CHINNA REDDAIAH
-* 2020MT93169	|    TAMILSELVAN N
-* 2020MT93192	|    SWATI VIDYADHAR SHANBHAG
-* 2020mt93049	|    KASTHURI NARESH
+* 2020MT93203 | T CHINNA REDDAIAH
+* 2020MT93169	| TAMILSELVAN N
+* 2020MT93192	| SWATI VIDYADHAR SHANBHAG
+* 2020mt93049	| KASTHURI NARESH
+
+### Content
+As part of Open source colloboration activity, project owner has created project repository (OpenSourceSE-Group-48) and remaining contributors forked the same repository  inorder to contribute to it.
+Each contributor 
 
 #### Contibutors Repository Links: 
 
@@ -25,6 +29,8 @@
 
 * From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
 
+## Usage
+
 ### Selenium Features
 * Open Source and Portable 
 * Reduce test execution time
@@ -32,9 +38,10 @@
 * Supports Multiple Operating Systems
 * Parallel Test Execution
 
-### Content
+## Code
 
-Description, sub-modules organization...
+[![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
+
 
 ### Requirements
 
