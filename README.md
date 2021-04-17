@@ -22,7 +22,7 @@
 changes 
 - [x] Collaborate and contribute to the development of ReadMe.md file
 - [X] Collaborate and contribute to the development of the software code
-- [X] Enable an issue tracker for your project and ensure usage of the same by all 
+- [ ] Enable an issue tracker for your project and ensure usage of the same by all 
 collaborators.
 
 #### Contibutors Repository Links: 
@@ -34,7 +34,8 @@ collaborators.
 
 ## Installation
 
-* From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
+* From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings.
+* Click on the "Download" link of Java Client Driver
 
 ### Selenium Features
 * Open Source and Portable 
