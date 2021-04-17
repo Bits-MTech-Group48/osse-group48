@@ -32,7 +32,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
 >   * [Contributing / Reporting issues](#contributing--reporting-issues)
 >   * [License](#license)
->   * [About Nuxeo](#about-nuxeo)
+>   * [About Selenium Scripts](#about-nuxeo)
 
 ## Installation
 
