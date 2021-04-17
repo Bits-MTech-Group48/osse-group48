@@ -7,6 +7,13 @@
 
 #### Contrubutors Name:
 
+Contributor ID   	 | Name
+-------------    | -------------
+2020MT93203      | T CHINNA REDDAIAH
+2020MT93169      | TAMILSELVAN N
+ 
+
+
 ##### Student ID | Student Name
 
 * 2020MT93203 | T CHINNA REDDAIAH
@@ -22,7 +29,7 @@
 changes 
 - [x] Collaborate and contribute to the development of ReadMe.md file
 - [X] Collaborate and contribute to the development of the software code
-- [X] Enable an issue tracker for your project and ensure usage of the same by all 
+- [ ] Enable an issue tracker for your project and ensure usage of the same by all 
 collaborators.
 
 #### Contibutors Repository Links: 
