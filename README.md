@@ -42,10 +42,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
 ## Installation
 
-Sample:
-
-* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-sample).
-* From the command line: `nuxeoctl mp-install nuxeo-sample`
+* From URL: https://docs.seleniumhq.org/download/ locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
 
 ## Usage
 
@@ -63,7 +60,6 @@ Description, sub-modules organization...
 
 ### Requirements
 
-See [CORG/Compiling Nuxeo from sources](http://doc.nuxeo.com/x/xION)
 
 Sample: <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
 
