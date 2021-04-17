@@ -49,11 +49,11 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 ### Screenshots
 
 ### Selenium Features
-*Open Source and Portable 
-*Reduce test execution time
-*Supports Multiple Programming Languages
-*Supports Multiple Operating Systems
-*Parallel Test Execution
+* Open Source and Portable 
+* Reduce test execution time
+* Supports Multiple Programming Languages
+* Supports Multiple Operating Systems
+* Parallel Test Execution
 
 ## Code
 
