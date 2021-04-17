@@ -1,7 +1,7 @@
 # Assignment 4 - Contributing to Open Source Software
 ## About / Synopsis
 
-* Project Name   : Develop selemium scripts to automation flipkart application
+* Project Name   : Develop selemium scripts to automate flipkart application
 * Project status : In Progress
 * Organization   : Bits-MTech-Group48/osse-group48
 
