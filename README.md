@@ -5,11 +5,9 @@
 * Project status : In Progress
 * Organization   : Bits-MTech-Group48/osse-group48
 
-#### Contrubutors Name:
+#### Contrubutors Name & ID :
 
-##### Student ID | Student Name
-
-* 2020MT93203 |    T CHINNA REDDAIAH
+* 2020MT93203   |    T CHINNA REDDAIAH
 * 2020MT93169	|    TAMILSELVAN N
 * 2020MT93192	|    SWATI VIDYADHAR SHANBHAG
 * 2020mt93049	|    KASTHURI NARESH
