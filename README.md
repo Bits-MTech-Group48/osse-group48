@@ -5,6 +5,12 @@
 * Project status : In Progress
 * Organization   : Bits-MTech-Group48/osse-group48
 
+Contrubutors Name:
+* T Chinna
+* Tamilselvan
+* Swati
+* Naresh
+
 Contibutors Repository Links: 
 
 * <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
