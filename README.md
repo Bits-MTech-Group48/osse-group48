@@ -63,8 +63,8 @@ Each contributor
 
 ## Resources (Documentation and other links)
 
-<https://www.selenium.dev/>
-<https://www.eclipse.org/eclipseide/>
+* <https://www.selenium.dev/>
+* <https://www.eclipse.org/eclipseide/>
 
 ## Contributing / Reporting issues
 
