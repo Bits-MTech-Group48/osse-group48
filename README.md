@@ -18,26 +18,6 @@
 * <https://github.com/Swatvi/osse-group48-1>
 * <https://github.com/kasthurinaresh/osse-group48-1>
 
-## Table of contents
-
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
-
-> * [Title / Repository Name](#title--repository-name)
->   * [About / Synopsis](#about--synopsis)
->   * [Table of contents](#table-of-contents)
->   * [Installation](#installation)
->   * [Usage](#usage)
->     * [Selenium Features](#features)
->   * [Code](#code)
->     * [Content](#content)
->     * [Requirements](#requirements)
->     * [Limitations](#limitations)
->     * [Build](#build)
->     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
->   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
->   * [Contributing / Reporting issues](#contributing--reporting-issues)
->   * [About Selenium Scripts](#about-nuxeo)
-
 ## Installation
 
 * From URL: <https://docs.seleniumhq.org/download/> locate Selenium Client & WebDriver Language Bindings. Click on the "Download" link of Java Client Driver
