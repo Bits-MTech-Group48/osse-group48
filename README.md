@@ -5,21 +5,14 @@
 * Project status : In Progress
 * Organization   : Bits-MTech-Group48/osse-group48
 
-#### Contrubutors Name:
+#### Contrubutors Details:
 
 Contributor ID   	 | Name
 -------------    | -------------
 2020MT93203      | T CHINNA REDDAIAH
 2020MT93169      | TAMILSELVAN N
- 
-
-
-##### Student ID | Student Name
-
-* 2020MT93203 | T CHINNA REDDAIAH
-* 2020MT93169	| TAMILSELVAN N
-* 2020MT93192	| SWATI VIDYADHAR SHANBHAG
-* 2020mt93049	| KASTHURI NARESH
+2020MT93192      | SWATI VIDYADHAR SHANBHAG
+2020mt93049      | KASTHURI NARESH
 
 ### Content
 
@@ -29,7 +22,7 @@ Contributor ID   	 | Name
 changes 
 - [x] Collaborate and contribute to the development of ReadMe.md file
 - [X] Collaborate and contribute to the development of the software code
-- [x] Enable an issue tracker for your project and ensure usage of the same by all 
+- [ ] Enable an issue tracker for your project and ensure usage of the same by all 
 collaborators.
 
 #### Contibutors Repository Links: 
