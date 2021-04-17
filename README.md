@@ -24,9 +24,6 @@ changes
 - [X] Collaborate and contribute to the development of the software code
 - [ ] Enable an issue tracker for your project and ensure usage of the same by all 
 collaborators.
-- [ ] Point 4
-- [ ] Point 4
-- [ ] Point 4
 
 #### Contibutors Repository Links: 
 
