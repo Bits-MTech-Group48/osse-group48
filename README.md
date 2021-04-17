@@ -22,7 +22,7 @@
 changes 
 - [x] Collaborate and contribute to the development of ReadMe.md file
 - [X] Collaborate and contribute to the development of the software code
-- [ ] Enable an issue tracker for your project and ensure usage of the same by all 
+- [X] Enable an issue tracker for your project and ensure usage of the same by all 
 collaborators.
 
 #### Contibutors Repository Links: 
