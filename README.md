@@ -15,12 +15,9 @@
 * 2020mt93049	| KASTHURI NARESH
 
 ### Content
-As part of Open source colloboration activity, project owner has created project repository (OpenSourceSE-Group-48) and remaining contributors forked the same repository  inorder to contribute to it.
-Each contributor 
 
-
-- [X] project owner has created project repository (OpenSourceSE-Group-48)
-- [x] remaining contributors forked the same repository
+- [X] Project owner has created project repository (OpenSourceSE-Group-48)
+- [x] Remaining contributors forked the same repository
 - [x] All collaborators create different topic branches in order to make their 
 changes 
 - [x] Collaborate and contribute to the development of ReadMe.md file
