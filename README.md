@@ -63,7 +63,7 @@ Each contributor
 
 ## Contributing / Reporting issues
 
-* [Link to Tracking Issues](https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48/issues)
+[Link to Tracking Issues](https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48/issues)
 
 ## About Selenium Scripts
 
