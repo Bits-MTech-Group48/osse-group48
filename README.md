@@ -48,11 +48,6 @@ Each contributor
 * Supports Multiple Operating Systems
 * Parallel Test Execution
 
-## Code
-
-[![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
-
-
 ### Requirements
 
 <https://github.com/Bits-MTech-Group48/OpenSourceSE-Group-48>
